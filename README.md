@@ -1,2 +1,2 @@
-# 3rd-ML100days
-Project for joining 3rd Machine Learning 100 Days Marthon Contest
+# Machine Learning 100days
+Project for joining Cupoy Machine Learning 100 Days Marthon Contest
