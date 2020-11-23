@@ -7,3 +7,6 @@ Mid-term/Day_040_HW_cpjohn.ipynb
 Mid-term/Day_042_HW_cpjohn.ipynb
 Mid-term/Day_044_HW_cpjohn.ipynb
 Mid-term/Day_047_HW_cpjohn.ipynb
+saved_models/keras_cifar10_trained_model.h5
+saved_models/keras_cifar10_trained_model_adam.h5
+example/saved_models/keras_cifar10_trained_model.h5
