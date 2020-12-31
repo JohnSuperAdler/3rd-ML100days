@@ -13,3 +13,4 @@ example/saved_models/keras_cifar10_trained_model.h5
 *.zip
 *.jpg
 *.h5
+*.npy
